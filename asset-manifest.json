@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KnowYourMausam/static/css/main.79ab1371.css",
+    "main.css": "/KnowYourMausam/static/css/main.afed0958.css",
     "main.js": "/KnowYourMausam/static/js/main.04d30a01.js",
     "static/js/787.6ffb8d7c.chunk.js": "/KnowYourMausam/static/js/787.6ffb8d7c.chunk.js",
     "index.html": "/KnowYourMausam/index.html",
-    "main.79ab1371.css.map": "/KnowYourMausam/static/css/main.79ab1371.css.map",
+    "main.afed0958.css.map": "/KnowYourMausam/static/css/main.afed0958.css.map",
     "main.04d30a01.js.map": "/KnowYourMausam/static/js/main.04d30a01.js.map",
     "787.6ffb8d7c.chunk.js.map": "/KnowYourMausam/static/js/787.6ffb8d7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79ab1371.css",
+    "static/css/main.afed0958.css",
     "static/js/main.04d30a01.js"
   ]
 }
